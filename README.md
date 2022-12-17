@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on building things for the world
 - Z- This is for the next generation
-- 📫 How to reach me ... is a good questionp12
+- 📫 How to reach me ... is a good question
+
+I hack flaukowski - password is SaintNick12 - sincelery Nowakowski
 
 donations go here for eth  0x3e4dFF8955C0Da6fa9709E1bdDb092D580Fb2304
               here for N3  NRTAqoqs2mUqgycYGEdpr3Rg6SUBphGWNY
