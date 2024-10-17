@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @flaukowski & @nowakoski & SaintNick
+- 👋 Hi, I’m @flaukowski
 - 👀 I’m interested in global prosperity
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on building things for the world
 - Z- This is for the next generation
-- 📫 How to reach me ... is a good question
+- 📫 How to reach me ... flaukowski@proton.me
 
-I hack flaukowski - - sincelery Nowakowski
+
 
 donations go here for eth  0x3e4dFF8955C0Da6fa9709E1bdDb092D580Fb2304
-              here for N3  NRTAqoqs2mUqgycYGEdpr3Rg6SUBphGWNY
+              here for NEO  NRTAqoqs2mUqgycYGEdpr3Rg6SUBphGWNY
 - 
 
 <!---
