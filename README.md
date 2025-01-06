@@ -8,7 +8,10 @@
 
 
 donations go here for eth  0x3e4dFF8955C0Da6fa9709E1bdDb092D580Fb2304
-              here for NEO  NRTAqoqs2mUqgycYGEdpr3Rg6SUBphGWNY
+              here for NEO N3 NRTAqoqs2mUqgycYGEdpr3Rg6SUBphGWNY
+              here for NEO X 0x5C2FFf175128ADdD8B982ecF87Fb4f61150095aA
+
+              Thank you!
 - 
 
 <!---
