@@ -5,15 +5,6 @@
 - Z- This is for the next generation
 - 📫 How to reach me ... flaukowski@proton.me
 
-
-
-donations go here for eth  [set DONATION_ETH_ADDRESS in .env]
-              here for NEO N3 REDACTED_NEO_ADDRESS
-              here for NEO X [set DONATION_NEOX_ADDRESS in .env]
-
-              Thank you!
-- 
-
 <!---
 flaukowski/flaukowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
