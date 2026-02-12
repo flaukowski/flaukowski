@@ -7,9 +7,9 @@
 
 
 
-donations go here for eth  REDACTED_WALLET_ADDRESS
+donations go here for eth  [set DONATION_ETH_ADDRESS in .env]
               here for NEO N3 REDACTED_NEO_ADDRESS
-              here for NEO X REDACTED_WALLET_ADDRESS
+              here for NEO X [set DONATION_NEOX_ADDRESS in .env]
 
               Thank you!
 - 
